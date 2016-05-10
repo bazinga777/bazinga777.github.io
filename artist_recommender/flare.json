@@ -1,0 +1,289 @@
+{
+ "name": "Music Genres",
+ "children": [
+  {
+   "name": "pop",
+   "children": [
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "malaysian pop", "size": 3938},
+      {"name": "mallet", "size": 3812},
+      {"name": "mambo", "size": 6714},
+      {"name": "mande pop", "size": 743}
+     ]
+    },
+    {
+     "name": "Alternative",
+     "children": [
+      {"name": "manele", "size": 3534},
+      {"name": "marching band", "size": 5731},
+      {"name": "mariachi", "size": 7840},
+      {"name": "martial industrial", "size": 5914},
+      {"name": "mashup", "size": 3416}
+     ]
+    },
+    {
+     "name": "math pop",
+     "children": [
+      {"name": "math rock", "size": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "mathcore",
+   "children": [
+    {"name": "mbalax", "size": 17010},
+    {"name": "medieval", "size": 5842},
+    {
+     "name": "medieval rock",
+     "children": [
+      {"name": "meditation", "size": 1983},
+      {"name": "melancholia", "size": 2047},
+      {"name": "melbourne bounce", "size": 1375},
+      {"name": "mellow gold", "size": 8746},
+      {"name": "melodic death metal", "size": 2202},
+      {"name": "melodic hard rock", "size": 1382},
+      {"name": "melodic hardcore", "size": 1629},
+      {"name": "melodic metalcore", "size": 1675},
+      {"name": "melodic power metal", "size": 2042},
+      {"name":"melodic progressive metal" , "size":2015}
+     ]
+    },
+    {"name": "memphis blues", "size": 1041},
+    {"name": "memphis hip hop", "size": 5176},
+    {"name": "memphis soul", "size": 449},
+    {"name": "merengue", "size": 5593},
+    {"name": "merengue urbano", "size": 5534},
+    {"name": "merseybeat", "size": 9201}
+    
+   ]
+  },
+  {
+   "name":  "metal",
+   "children": [
+    
+    {"name":"metal guitar" , "size": 1759},
+    {"name": "metalcore", "size": 2165},
+    {"name": "metropopolis", "size": 586},
+    {"name": "mexican indie", "size": 3331},
+    {"name": "mexican son", "size": 772},
+    {"name": "mexican rock-and-roll", "size": 3322}
+   ]
+  },
+  {
+   "name": "mexican traditional",
+   "children": [
+    {"name": "miami bass", "size": 8833},
+    {"name": "michigan indie", "size": 1732},
+    {"name": "microhouse", "size": 3623},
+    {"name": "military band", "size": 10066}
+   ]
+  },
+  
+  {
+   "name": "minimal",
+   "children": [
+    {"name": "minimal dub", "size": 1082},
+    {"name": "minimal dubstep", "size": 1336},
+    {"name": "minimal melodic techno", "size": 319},
+    {"name": "minimal tech house", "size": 10498},
+    {"name": "minimal techno", "size": 2822},
+    {"name": "minimal wave", "size": 9983}
+   ]
+  },
+  {
+   "name": "modern",
+   "children": [
+    {"name": "mod revival", "size": 1616},
+    {"name": "modern blues", "size": 1027},
+    {"name": "modern classical", "size": 3891},
+    {"name": "modern country rock", "size": 891},
+    {"name": "modern downshift", "size": 2893},
+    {"name": "modern free jazz", "size": 5103},
+    {"name": "modern performance", "size": 3677},
+    {"name": "modern southern rock", "size": 781},
+    {"name": "modern uplift", "size": 4141},
+   
+    {"name": "monastic", "size": 843},
+    {
+     "name": "moombahton",
+     "children": [
+      {"name": "morna", "size": 593},
+      {"name": "motivation", "size": 330},
+      {"name": "motown", "size": 287},
+      {"name": "movie tunes", "size": 277},
+      {"name": "mpb", "size": 292},
+      {"name": "musica para ninos", "size": 595}
+     
+      
+     ]
+    },
+    {"name": "musiikkia lapsille", "size": 843},
+    {"name": "musique concrete", "size": 1554}
+   ]
+  },
+  {
+   "name": "musique pour enfants",
+   "children": [
+    {"name": "muziek voor kinderen","size": 2105},
+    {"name": "nasheed" , "size": 1316},
+    {"name": "nashville sound", "size": 3151},
+    {"name": "native american", "size": 3770},
+    {"name": "necrogrind", "size": 2435}
+   ]
+  },
+  {
+   "name": "neo",
+   "children": [
+    {"name": "neo classical metal", "size": 8258},
+    {"name": "neo honky tonk", "size": 10001},
+    {"name": "neo mellow", "size": 8217},
+    {"name": "neo metal", "size": 12555},
+    {"name": "neo soul", "size": 2324},
+    {"name": "neo soul-jazz", "size": 10993},
+    {"name": "neo-pagan", "size": 335},
+    {"name": "neo-industrial rock", "size": 383},
+    {"name": "neo-progressive", "size": 874},
+    
+    {"name": "neo-rockabilly", "size": 17705},
+    {"name": "neo-psychedelic", "size": 1486},
+    {
+     "name": "neofolk","size":667},
+    {"name": "neo-singer-songwriter", "size": 5559},
+    {"name": "neo-synthpop", "size": 19118},
+    {"name": "neo-trad metal", "size": 6887},
+    {"name": "neo-traditional country", "size": 6557},
+    {"name": "neoclassical", "size": 22026}
+   ]
+  },
+  {
+   "name": "new",
+   "children": [
+    {
+     "name": "new",
+     "children": [
+      {"name": "new age piano" , "size": 1302},
+      {"name": "new americana", "size": 24593},
+      {"name": "new beat", "size": 652},
+      {"name": "new jack smooth", "size": 636},
+      {"name": "new age", "size": 6703}
+     ]
+    },
+    {
+     "name":  "new jack swing",
+     "children": [
+      {"name": "new orleans blues", "size": 2138},
+      {"name": "new orleans jazz", "size": 3824},
+      {"name":  "new rave", "size": 1353},
+      {"name": "new romantic", "size": 4665},
+      {"name": "new tribe", "size": 2649},
+      {"name": "new wave", "size": 2832},
+      {"name": "new wave pop", "size": 4896},
+      {"name": "ninja", "size": 763}
+     ]
+    },
+    {
+     "name": "nepali",
+     "children": [
+      {"name": "nerdcore", "size": 20544},
+      {"name": "neue deutsche harte", "size": 19788},
+      {"name": "neue deutsche welle", "size": 10349},
+      {"name": "neurofunk", "size": 3301},
+      {"name": "neurostep", "size": 19382},
+      {
+       "name": "nintendocore",
+       "children": [
+        {"name": "nl folk", "size": 698},
+        {"name": "no wave", "size": 5569},
+        {"name": "noise", "size": 353},
+        {"name": "noise pop", "size": 2247}
+       ]
+      },
+      {"name": "noise punk", "size": 11275},
+      {"name": "noise rock", "size": 7147},
+      {"name": "nordic folk", "size": 9930}
+     ]
+    },
+    {
+     "name": "northern",
+     "children": [
+      {"name": "northern gospel", "size": 2313},
+      {"name": "northern soul", "size": 1880},
+      {"name": "northern irish indie", "size": 1701}
+     ]
+    },
+    {
+     "name": "nu",
+     "children": [
+      {"name": "nu age", "size": 20859},
+      {"name": "nu disco", "size": 4614},
+      {"name": "nu electro", "size": 10530},
+      {"name": "nu gaze", "size": 10530},
+      {"name": "nu jazz", "size": 10530}
+     ]
+    },
+    {
+     "name": "nu metal",
+     "children": [
+      {
+       "name": "nu skool breaks",
+       "children": [
+        {"name": "nu-cumbia", "size": 4461},
+        {"name": "nueva cancion", "size": 6314},
+        {"name": "nursery", "size": 3444}
+       ]
+      },
+      {
+       "name": "opm",
+       "children": [
+        {"name": "oratory", "size": 3179},
+        {"name": "orchestral", "size": 4060},
+        {"name": "organic ambient", "size": 4138},
+        {"name": "orgcore", "size": 1690},
+        {"name": "orquesta tipica", "size": 1830}
+       ]
+      },
+      {
+       "name": "nwobhm",
+       "children": [
+        {"name": "nz indie", "size": 5219},
+        {"name": "nwothm", "size": 3165},
+        {"name":"oi", "size": 3509}
+       ]
+      },
+      {"name": "old school hip hop", "size": 1286},
+      {
+       "name": "label",
+       "children": [
+        {"name": "old-time", "size": 9956},
+        {"name": "opera", "size": 3899},
+        {"name": "operatic pop", "size": 3202}
+       ]
+      },
+      {
+       "name": "norwegian",
+       "children": [
+        {"name": "norwegian gospel", "size": 6725},
+        {"name": "norwegian hip hop", "size": 3727},
+        {"name": "norwegian jazz", "size": 9317},
+        {"name": "norwegian metal", "size": 12003},
+        {"name": "norwegian pop", "size": 4853},
+        {"name": "norwegian punk", "size": 8411},
+        {"name": "norwegian rock", "size": 4864}
+       
+       ]
+      },
+      {"name": "orquesta tropical", "size": 2490},
+      {"name": "oshare kei", "size": 5248},
+      {"name": "ostrock", "size": 4190},
+      {"name": "outer hip hop", "size": 2581},
+      {"name": "outlaw country", "size": 2023}
+     ]
+    },
+    {"name": "p funk", "size": 16540}
+   ]
+  }
+ ]
+}
